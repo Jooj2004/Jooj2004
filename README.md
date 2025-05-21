@@ -62,8 +62,9 @@
 </div>
 
 ###
+###
 
-<div>
+<div align="center">
   <p>
     Novos Projetos e portifólio em breve... 
   </p>
