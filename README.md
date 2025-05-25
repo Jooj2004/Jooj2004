@@ -62,12 +62,16 @@
 </div>
 
 ###
-###
 
 <div align="center">
   <p>
     Novos Projetos e portifólio em breve... 
   </p>
 </div>
+
+###
+
+<div align="center"> 
+  <a href="https://github.com/Jooj2004/Certificados" target="_blank"> <img src="https://img.shields.io/badge/Ver%20Certificados-000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="certificados" /> </a> </div>
 
 ###
